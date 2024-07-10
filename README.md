@@ -1,0 +1,2 @@
+# QuicEquipo
+Pagina inicial
